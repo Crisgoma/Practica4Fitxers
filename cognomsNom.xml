@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_25" class="java.beans.XMLDecoder">
+ <object class="java.util.TreeSet">
+  <void method="add">
+   <object class="Fira">
+    <void property="descripcio">
+     <string>Fira puri­sssima</string>
+    </void>
+    <void property="dia">
+     <object class="java.util.Date">
+      <long>1417820400000</long>
+     </object>
+    </void>
+    <void property="durada">
+     <int>3</int>
+    </void>
+    <void property="inscripcionsConfirmades">
+     <object class="java.util.Stack">
+      <void method="add">
+       <object class="Comerciant">
+        <void property="nom">
+         <string>Moda Demode</string>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="Comerciant" id="Comerciant0">
+        <void property="nom">
+         <string>Artesania Happy Karma</string>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <null/>
+      </void>
+     </object>
+    </void>
+    <void property="localitat">
+     <string>Esplugues</string>
+    </void>
+    <void property="peticionsInscripcio">
+     <object class="java.util.LinkedList"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Fira">
+    <void property="descripcio">
+     <string>IV Fira de la puri­sssima</string>
+    </void>
+    <void property="dia">
+     <object class="java.util.Date">
+      <long>1417820400000</long>
+     </object>
+    </void>
+    <void property="durada">
+     <int>2</int>
+    </void>
+    <void property="inscripcionsConfirmades">
+     <object class="java.util.Stack">
+      <void method="add">
+       <object class="Comerciant" id="Comerciant1">
+        <void property="nom">
+         <string>Bar Manolo</string>
+        </void>
+        <void property="restauracio">
+         <boolean>true</boolean>
+        </void>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="localitat">
+     <string>Sant Boi</string>
+    </void>
+    <void property="peticionsInscripcio">
+     <object class="java.util.LinkedList">
+      <void method="add">
+       <object class="Comerciant" id="Comerciant2">
+        <void property="nom">
+         <string>Xurreria La porra</string>
+        </void>
+        <void property="restauracio">
+         <boolean>true</boolean>
+        </void>
+       </object>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Fira">
+    <void property="descripcio">
+     <string>La fira de la puri­sssima</string>
+    </void>
+    <void property="dia">
+     <object class="java.util.Date">
+      <long>1417820400000</long>
+     </object>
+    </void>
+    <void property="durada">
+     <int>3</int>
+    </void>
+    <void property="inscripcionsConfirmades">
+     <object class="java.util.Stack">
+      <void method="add">
+       <object idref="Comerciant0"/>
+      </void>
+      <void method="add">
+       <object class="Comerciant">
+        <void property="nom">
+         <string>Bijuteria Indian Treasures</string>
+        </void>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="localitat">
+     <string>Santa Coloma de Gramanet</string>
+    </void>
+    <void property="peticionsInscripcio">
+     <object class="java.util.LinkedList">
+      <void method="add">
+       <object class="Comerciant" id="Comerciant3">
+        <void property="nom">
+         <string>Carnicas Gonzalez</string>
+        </void>
+        <void property="restauracio">
+         <boolean>true</boolean>
+        </void>
+       </object>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Fira">
+    <void property="descripcio">
+     <string>Fira abans de Nadal</string>
+    </void>
+    <void property="dia">
+     <object class="java.util.Date">
+      <long>1417906800000</long>
+     </object>
+    </void>
+    <void property="durada">
+     <int>3</int>
+    </void>
+    <void property="inscripcionsConfirmades">
+     <object class="java.util.Stack"/>
+    </void>
+    <void property="localitat">
+     <string>Hospitalet</string>
+    </void>
+    <void property="peticionsInscripcio">
+     <object class="java.util.LinkedList">
+      <void method="add">
+       <object idref="Comerciant3"/>
+      </void>
+      <void method="add">
+       <object idref="Comerciant3"/>
+      </void>
+      <void method="add">
+       <object idref="Comerciant1"/>
+      </void>
+      <void method="add">
+       <object idref="Comerciant2"/>
+      </void>
+      <void method="add">
+       <object idref="Comerciant0"/>
+      </void>
+      <void method="add">
+       <object idref="Comerciant2"/>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Fira">
+    <void property="descripcio">
+     <string>Fira abans de Nadal 2</string>
+    </void>
+    <void property="dia">
+     <object class="java.util.Date">
+      <long>1417906800000</long>
+     </object>
+    </void>
+    <void property="durada">
+     <int>2</int>
+    </void>
+    <void property="inscripcionsConfirmades">
+     <object class="java.util.Stack"/>
+    </void>
+    <void property="localitat">
+     <string>Hospitalet</string>
+    </void>
+    <void property="peticionsInscripcio">
+     <object class="java.util.LinkedList"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Fira">
+    <void property="descripcio">
+     <string>Fira de la constitucio</string>
+    </void>
+    <void property="dia">
+     <object class="java.util.Date">
+      <long>1417906800000</long>
+     </object>
+    </void>
+    <void property="durada">
+     <int>1</int>
+    </void>
+    <void property="inscripcionsConfirmades">
+     <object class="java.util.Stack"/>
+    </void>
+    <void property="localitat">
+     <string>Igualada</string>
+    </void>
+    <void property="peticionsInscripcio">
+     <object class="java.util.LinkedList"/>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Esdeveniment">
+    <void property="descripcio">
+     <string>Concert de Nadal de les escoles</string>
+    </void>
+    <void property="dia">
+     <object class="java.util.Date">
+      <long>1419116400000</long>
+     </object>
+    </void>
+    <void property="localitat">
+     <string>Santa Coloma de Gramanet</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Esdeveniment">
+    <void property="descripcio">
+     <string>Concert de Nadal</string>
+    </void>
+    <void property="dia">
+     <object class="java.util.Date">
+      <long>1419375600000</long>
+     </object>
+    </void>
+    <void property="localitat">
+     <string>Tarragona</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Esdeveniment">
+    <void property="descripcio">
+     <string>Sant Esteve popular</string>
+    </void>
+    <void property="dia">
+     <object class="java.util.Date">
+      <long>1419548400000</long>
+     </object>
+    </void>
+    <void property="localitat">
+     <string>Hospitalet</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Esdeveniment">
+    <void property="descripcio">
+     <string>Nit de reis</string>
+    </void>
+    <void property="dia">
+     <object class="java.util.Date">
+      <long>1420412400000</long>
+     </object>
+    </void>
+    <void property="localitat">
+     <string>Hospitalet</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Esdeveniment">
+    <void property="descripcio">
+     <string>Cavalcada dels Reis</string>
+    </void>
+    <void property="dia">
+     <object class="java.util.Date">
+      <long>1420412400000</long>
+     </object>
+    </void>
+    <void property="localitat">
+     <string>Santa Coloma de Gramanet</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Esdeveniment">
+    <void property="descripcio">
+     <string>Cavalcada dels Reis</string>
+    </void>
+    <void property="dia">
+     <object class="java.util.Date">
+      <long>1420412400000</long>
+     </object>
+    </void>
+    <void property="localitat">
+     <string>Tarragona</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
